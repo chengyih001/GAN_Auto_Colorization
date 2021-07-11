@@ -6,9 +6,8 @@ Project Detail and Summary : https://github.com/chengyih001/GAN_Auto_Colorizatio
 ## Results
 
 <p float="left">
-  <img src="./images/cGAN_output.png" width="560" />
-  <img width="1">
-  <img src="./images/cGAN_sketch_output.png" width="270" />
+  <img src="./images/cGAN_output.png"/>
+  <img src="./images/cGAN_sketch_output.png"/>
 </p>
 
 
