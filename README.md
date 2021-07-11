@@ -1,5 +1,4 @@
 # Auto Colorization with cGANs
-Author: <br>
 Yih CHENG (https://github.com/chengyih001)<br>
 Yao ZHANG (https://github.com/cyiu-yoyo)
 
