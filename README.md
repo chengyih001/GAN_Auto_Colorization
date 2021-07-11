@@ -1,5 +1,7 @@
 # Auto Colorization with cGANs
-Author: Yih CHENG, Yao ZHANG
+Author: <br>
+Yih CHENG (https://github.com/chengyih001)<br>
+Yao ZHANG (https://github.com/cyiu-yoyo)
 
 Project Detail and Summary : https://github.com/chengyih001/GAN_Auto_Colorization/blob/master/paper/Auto%20Colorization%20with%20cGANs.pdf
 
