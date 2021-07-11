@@ -3,16 +3,15 @@ Author: Yih CHENG, Yao ZHANG
 
 Project Detail and Summary : https://github.com/chengyih001/GAN_Auto_Colorization/blob/master/paper/Auto%20Colorization%20with%20cGANs.pdf
 
+## Overview
+Image translation has been one of the most popular topics in computer vision, and approaches aiming to study the mapping function between input images and output images have been one of the main focuses toward this problem. In this project, the target is to colorize grayscale flower images with large, deep conditional GAN (cGAN) architecture. 
+
 ## Results
 
 <p float="left">
   <img src="./images/cGAN_output.png"/>
   <img src="./images/cGAN_sketch_output.png"/>
 </p>
-
-
-## Overview
-Image translation has been one of the most popular topics in computer vision, and approaches aiming to study the mapping function between input images and output images have been one of the main focuses toward this problem. In this project, the target is to colorize grayscale flower images with large, deep conditional GAN (cGAN) architecture. 
 
 ## Problem Description
 Given an input grayscale image _`xi`_ `∈ [0, 255]` m\*n\*3 in domain X, the corresponding colorized image output is _`yi`_ `∈ [0, 255]` m\*n\*3 in domain Y, with m being the image height, n being the image width, and 3 representing the three `RGB` channels. The goal for this project is to implement a model that can learn the mapping function `GXY : X → Y` , which is capable of generating output images `GXY (X)` that are indistinguishable from the ground-truth images Y.
